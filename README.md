@@ -1,4 +1,5 @@
 📊 Subscription Churn & Revenue Analysis – Power BI
+
 📌 Project Overview
 
 This project analyzes customer subscription behavior, churn patterns, and revenue performance using an interactive Power BI dashboard.
